@@ -3,7 +3,7 @@ I’m currently learning HTML and CSS
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolajulie&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolajulie&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!--
