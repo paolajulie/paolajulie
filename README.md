@@ -1,5 +1,6 @@
 ## Hello there 
 - I’m currently learning react
+- I'm interested in front-end programming
 ### languages and tools:
 <div style = display flex; margin-bottom=10px; >
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
