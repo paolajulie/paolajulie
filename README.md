@@ -1,6 +1,4 @@
 ## Hello there 
-- I’m currently learning react
-- I'm interested in front-end programming
 ### languages and tools:
 <div style = display flex; margin-bottom=10px; >
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="40"/>
